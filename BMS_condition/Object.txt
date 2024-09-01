@@ -1,0 +1,32 @@
+QLineExit
+总电压：total_value
+总电流：total_current
+平均温度：ave_tem
+电池类型：bt_type
+电池总电压：bt_value
+电池总功率：bt_power
+电池温度：bt_tem
+mos温度：mos_tem
+电池串数：bt_amount
+（电池）总电流：bt_current
+电池状态：bt_cd
+当前湿度值：now_tem
+电池箱内温度：inside_tem
+电池健康度：bt_ht
+电池剩余电量SOC：bt_soc
+电池循环次数：bt_cycle
+电芯最高电压：max_value
+电芯最低电压：min_value
+电芯平均电压：ave_value
+最大电芯压差：df_max
+电池温度探头：tem_probe
+QRadioButton
+充电MOS管：ON：charge_mos_on  OFF：charge_mos_off
+充电均衡开关：ON：charge_average_on  OFF：charge_average_off
+温度保护开关：ON：tem_pro_on  OFF：tem_pro_off
+放电MOS管：ON：discharge_mos_on  OFF：discharge_mos_off
+QListView
+电池1：bt_1
+电池2：bt_2
+……
+电池8：bt_8
